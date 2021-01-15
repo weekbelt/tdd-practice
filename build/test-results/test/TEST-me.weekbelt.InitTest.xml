@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="me.weekbelt.InitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-01-14T13:33:49" hostname="MacBook-Pro-2.local" time="0.077">
+<testsuite name="me.weekbelt.InitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-01-15T13:47:42" hostname="MacBook-Pro-2.local" time="0.08">
   <properties/>
-  <testcase name="testMultiplication()" classname="me.weekbelt.InitTest" time="0.067"/>
-  <testcase name="testDifferentClassEquality()" classname="me.weekbelt.InitTest" time="0.001"/>
-  <testcase name="testFrancMultiplication()" classname="me.weekbelt.InitTest" time="0.001"/>
-  <testcase name="testCurrency()" classname="me.weekbelt.InitTest" time="0.004"/>
+  <testcase name="testMultiplication()" classname="me.weekbelt.InitTest" time="0.07"/>
+  <testcase name="testCurrency()" classname="me.weekbelt.InitTest" time="0.006"/>
   <testcase name="testEquality()" classname="me.weekbelt.InitTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
