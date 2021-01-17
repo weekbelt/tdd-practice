@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="me.weekbelt.InitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-01-15T13:47:42" hostname="MacBook-Pro-2.local" time="0.08">
+<testsuite name="me.weekbelt.InitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-17T10:49:24" hostname="MacBook-Pro-2.local" time="0.087">
   <properties/>
-  <testcase name="testMultiplication()" classname="me.weekbelt.InitTest" time="0.07"/>
-  <testcase name="testCurrency()" classname="me.weekbelt.InitTest" time="0.006"/>
-  <testcase name="testEquality()" classname="me.weekbelt.InitTest" time="0.002"/>
+  <testcase name="testSimpleAddition()" classname="me.weekbelt.InitTest" time="0.087"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
